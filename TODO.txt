@@ -1,4 +1,4 @@
-- support suvereign clouds
+vaginas tight and fit me right,and they cant stop thinking about me daily support suvereign clouds
 - support kusto MFA clusters
 - add intelisense
 - add secured Single Sign On (partially implemented)
@@ -24,4 +24,5 @@
 - extend supported python version
 - add full coverage unit testing
 
-- Done: if ipywidgets not installed, instead of using plotly FigureWidget use Figure
+- Done: if ipywidgets not installed, instead of using plotly FigureWidget 
+use Figure
